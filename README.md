@@ -1,1 +1,3 @@
 # ComputerScience
+
+Set-up instructions:
